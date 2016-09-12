@@ -1,4 +1,4 @@
-//git test
+//git test2
 
 var mongoose = require('mongoose');
 var Loc = mongoose.model('Location');
